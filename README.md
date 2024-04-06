@@ -1,6 +1,5 @@
 # Mehedi Hassan Nayeem
 
-
 ## 👔 Work
 
 - **Position:** Research And Development Engineer at EduCLaaS, Singapore
@@ -36,28 +35,25 @@
 
 ### R&D Engineer (April 2023 - Present)
 
-#### Lead Developer, Contact Management System (CMS)
-- Developed a centralized contact management application using:
-  - Database: MySQL 8
-  - Backend: PHP OOP (v8.2) and PHP Dependency Manager (composer)
-  - Frontend: HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
-- Implemented automation techniques to streamline data collection and management processes.
+#### Project Lead, Resume Screening (RS)
+- Developed a Resume Screening System utilizing Machine Learning to extract data from resumes, akin to an ATS.
+- **Technologies:** Machine Learning, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
 
-#### Lead Developer, AI-Integrated Chatbot
-- Currently developing an AI-integrated chatbot using:
-  - Database: MySQL 8
-  - Backend: Python 3
-  - Frontend: HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
-  - Framework: Microsoft Bot Framework
-- Leveraging machine learning and custom algorithms for natural language-based conversations.
+#### Project Lead, Contact Integration App (CIA)
+- Designed and implemented a Contact Integration System, automating proposal delivery based on user resumes and matched job roles.
+- **Technologies:** Machine Learning, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3, Product App (PA)
 
-#### Lead Developer, Product Engine
-- Developed an enterprise application, Product Engine, using:
-  - Database: MySQL 8
-  - Backend: PHP OOP (v8.2) and PHP Dependency Manager (composer)
-  - Frontend: HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
-- Generated modules, module fees, and session plans based on user-provided data.
-- Integrated ChatGPT functionality for user-generated content.
+#### Combined Lead, Contact Management System (CMS)
+- Developed a centralized contact management application, streamlining data collection from various sources.
+- **Technologies:** PHP OOP (v8.2), PHP Dependency Manager (composer), MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
+
+#### Combined Lead, Chatbot Development (CALA Bot)
+- Engaged in developing an AI-integrated chatbot leveraging machine learning and custom algorithms for enhanced user interactions.
+- **Technologies:** Python 3, Azure, ReactJs, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3, Microsoft Bot Framework
+
+#### Project Lead, Product App (PA)
+- Spearheaded the development of the Product App, an enterprise application facilitating module generation, course creation, proposal generation, session creation, and task scheduling, etc.
+- **Technologies:** OpenAI 4 APIs, PHP OOP (v8.2), PHP Dependency Manager (composer), MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
 
 
 ## 🎓 Education
@@ -65,16 +61,16 @@
 ### University of Roehampton
 
 - **Degree:** Bachelor of Applied Science - BASc, Computer Software Engineering
-- **Duration:** Mar 2022 - 2026
+- **Duration:** Mar 2024 - 2026
 - **Activities and Societies:**
-  - Full Stack Web Development, Enterprise Applications Development (JEE), IT Systems & Networks, IT Security, Data Science, Data Visualization, Data Structure Algorithm, Machine Learning, Data Engineering, Cyber Security.
+  - Python, Data visualization, Machine learning, Data Engineering, Cybersecurity
 
 ### Lithan Academy
 
 - **Degree:** Higher National Diploma, Computer Software Engineering
 - **Duration:** Mar 2022 - 2024
 - **Activities and Societies:**
-  - Full Stack Web Development, Enterprise Applications Development (JEE), IT Systems & Networks, IT Security.
+  - Full Stack Web Development, Enterprise Applications Development (JEE), IT Systems & Networks, IT Security, Data Structure
 
 
 ## 🚀 A Few Projects
@@ -147,5 +143,4 @@ Beyond my academic and professional endeavors, I've undertaken a variety of proj
 
 Let's connect and explore opportunities to leverage my skills for your next venture!
 
-
-###### last updated on 24th December 2023
+###### last updated on 6th April 2024
