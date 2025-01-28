@@ -35,6 +35,22 @@
 
 ### R&D Engineer (April 2023 - Present)
 
+#### Project Leader, Proposal Management AI App (PMA)
+- Led a team of 7 in developing the PMA, streamlining proposal generation through automated templates, allowing users to generate, track, and download proposals efficiently.
+- **Technologies:** OpenAI APIs, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
+
+#### Project Leader, Conversational Marketing AI App (CMA)
+- Led a team of 5 in automating the creation of marketing materials, including emails, campaigns, event templates, and brochures, using AI-driven content generation.
+- **Technologies:** OpenAI APIs, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
+
+#### Project Lead, Single Sign-On Center (SSO)
+- Developed a centralized authentication system using Microsoft OAuth 2.0, enabling secure user authentication and seamless integration across R&D applications, with roles-based admin control and API credential management.
+- **Technologies:** Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
+
+#### Project Lead, Cal Resume Screening (CRS)
+- Developed an automated system for proposal generation and contact creation in HubSpot, integrating delivery of generated proposals through Process Automation (PA) based on user resumes. (Upgrade of the CIA system).
+- **Technologies:** OpenAI APIs, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
+
 #### Project Lead, Resume Screening (RS)
 - Developed a Resume Screening System utilizing Machine Learning to extract data from resumes, akin to an ATS.
 - **Technologies:** Machine Learning, Laravel 10.x, Blade Template, PHP 8.2, MySQL 8, HTML5, CSS3, JavaScript ES19, jQuery 3.7.0, Bootstrap 5.3
@@ -57,13 +73,6 @@
 
 
 ## 🎓 Education
-
-### University of Roehampton
-
-- **Degree:** Bachelor of Applied Science - BASc, Computer Software Engineering
-- **Duration:** Mar 2024 - 2026
-- **Activities and Societies:**
-  - Python, Data visualization, Machine learning, Data Engineering, Cybersecurity
 
 ### Lithan Academy
 
@@ -137,7 +146,7 @@ I have a proven track record of leadership in key projects, such as contact mana
 
 With a strong background in data analytics, back-end web development, software and algorithm design, and full-stack development, I bring a unique blend of technical skills and a logical approach to problem-solving. I thrive on implementing innovative solutions for complex challenges and have a collaborative mindset, ensuring seamless teamwork with cross-functional groups.
 
-My education includes a Bachelor's degree in Computer Software Engineering from the University of Roehampton and a Higher National Diploma from Lithan Academy. Throughout my academic journey, I engaged in a diverse set of subjects, from full-stack web development to data science and cybersecurity.
+My education includes a Higher Diploma from Lithan Academy. Throughout my academic journey, I engaged in a diverse set of subjects, from full-stack web development to data science and cybersecurity.
 
 Beyond my academic and professional endeavors, I've undertaken a variety of projects, contributing to EduCLaaS's impactful initiatives and addressing real-world challenges.
 
