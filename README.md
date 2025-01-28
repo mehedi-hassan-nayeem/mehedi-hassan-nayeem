@@ -76,8 +76,8 @@
 
 ### Lithan Academy
 
-- **Degree:** Higher National Diploma, Computer Software Engineering
-- **Duration:** Mar 2022 - 2024
+- **Degree:** Higher Diploma, Computer Software Engineering
+- **Duration:** March 2022 - March 2024
 - **Activities and Societies:**
   - Full Stack Web Development, Enterprise Applications Development (JEE), IT Systems & Networks, IT Security, Data Structure
 
